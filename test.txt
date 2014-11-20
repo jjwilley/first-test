@@ -4,6 +4,7 @@ More updates
 CONFLICT
 CONFLICT
 Another update
+Introduce conflict
 Uncommitted update
 
 Adding some more

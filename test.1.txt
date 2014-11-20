@@ -1,5 +1,3 @@
 TestMore text
 Updates
 More updates
-Another update
-Uncommitted update

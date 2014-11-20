@@ -1,6 +1,8 @@
 TestMore text
 Updates
 More updates
+CONFLICT
+CONFLICT
 Another update
 Uncommitted update
 

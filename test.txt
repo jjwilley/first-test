@@ -1,5 +1,5 @@
 TestMore text
 Updates
 More updates
-Another update
+Introduce conflict
 Uncommitted update
